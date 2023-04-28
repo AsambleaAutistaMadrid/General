@@ -3,32 +3,33 @@ Escrito por Asamblea Autista Madrid
 Tabla de contenidos
 
 1.  Presentación
-    1.  Vías de (auto)diagnosticarse
-    2.  Crítica a los procesos de diagnóstico
+    1.  📝 Vías de (auto)diagnosticarse
+    2.  ❌ 👎 Crítica a los procesos de diagnóstico
 2.  Planteamiento y objetivo de la guía
-    1.  ¿Como evaluar nuestros rasgos?
-    2.  ¿Quien debe rellenar la plantilla de autodiagnóstico?
-    3.  Ventajas de rellenar la plantilla de autodiagnóstico
+    1.  📄 ¿Como rellenar la plantilla de autodiagnóstico?
+    2.  🤔 ¿Como evaluar nuestros rasgos?
+    3.  🫵 ¿Quien debe rellenar la plantilla de autodiagnóstico?
+    4.  👍 Ventajas de rellenar la plantilla de autodiagnóstico
 3.  Glosario
 4.  Apartados
-    1.  Interacción/comunicación social atípica
-        1.  Reciprocidad socio-emocional / empatía y alexitimia
-        2.  Comunicación no verbal
-        3.  Dificultad con amistades y relaciones
-        4.  Disidencias respecto a convenciones sociales
-    2.  Comportamientos y actividades restrictivas/repetitivas
-        1.  Autoestimulación / "Stimming"
-        2.  Comportamiento rígido y patrones de pensamiento atípicos y/o
-            autistas.
-        3.  Ecolalias
-        4.  Intereses especiales
-        5.  Problemas sensoriales/Sensorialidad Atípica
-        6.  Compulsiones y TOCs
-        7.  Enfermedades, trastornos y condiciones conocidos
-        8.  Disfuncionalidad ejecutiva y/o funcionalidad atípica
-        9.  Enmascaramiento/Masking
-    3.  Rasgos en la infancia/desarrollo
-    4.  Efectos en la vida diaria
+    1.  👥 Interacción/comunicación social atípica
+        1.  🫂 Reciprocidad socio-emocional / empatía y alexitimia
+        2.  🧏 Comunicación no verbal
+        3.  🗣️ Dificultad con amistades y relaciones
+        4.  🏳️‍🌈 Disidencias respecto a convenciones sociales
+    2.  🔁 ♾️ Comportamientos y actividades restrictivas/repetitivas
+        1.  🎮 Autoestimulación / "Stimming"
+        2.  ♾️ Comportamiento rígido y patrones de pensamiento atípicos
+            y/o autistas.
+        3.  🔊 🔁 Ecolalias
+        4.  🦖 : Intereses especiales
+        5.  🧨 👃 Sensorialidad Atípica
+        6.  🔁 Compulsiones y TOCs
+        7.  💊 Enfermedades, trastornos y condiciones conocidos
+        8.  💤 🔋 Disfuncionalidad ejecutiva y/o funcionalidad atípica
+        9.  😷 😶‍🌫️ Enmascaramiento/Masking
+    3.  🧒 Rasgos en la infancia/desarrollo
+    4.  😩 Efectos en la vida diaria
     5.  Otros
 5.  Descargas
     1.  Guía de autodiagnóstico
@@ -88,72 +89,21 @@ NO ES NECESARIO para poder considerarte autista.
 Las vías para poder afirmarse autista sin dudas y eliminar el síndrome
 del impostor son complicadas de navegar. Hay varias vías:
 
-1.  La primera, la manera "oficial" consiste en que pruebes con el
+1.  🔴 La primera, la manera "oficial" consiste en que pruebes con el
     sistema médico, que es el único que puede darte diagnóstico
     "oficial". En esta vía, la gente normalmente es que van pasando por
     diferentes profesionales hasta que consiguen encontrar uno que
-    escuche y si tienen verdadera suerte que esté realmente bien
-    informado, lo cual es muy improbable puesto que el autismo se suele
-    enseñar mal, documentar mal e investigar mal. Generalmente la
-    violencia de este sistema y de sus seguidores tiene como
-    características:
+    escuche y si tienen suerte une de elles puede que esté realmente
+    mejor informado. Es bastante improbable, puesto que el autismo se
+    suele enseñar mal, documentar mal e investigar mal. Sería
+    conveniente leer este análisis de las violencias recibidas en
+    procesos de diagnóstico "oficial".
 
-    -   Cuestionarte y hacer valoraciones arbitrarias basadas en
-        prejuicios
-
-    -   Negarte la posibilidad de ser autista sin siquiera valorarte ni
-        hacerte ningún tipo de prueba o entrevista
-
-    -   Contradicen tu narrativa: No te escuchan y te invalidan incluso
-        cuando les das una lista rasgos claramente autistas y ver como
-        rebajan su importancia/relevancia
-
-    -   Hacen que acabes cuestionando tu experiencia vital y tus rasgos
-        y entrar en crisis por la falta de apoyo y de refuerzo positivo
-
-    -   Hacen que tener un diagnóstico oficial generalmente requiera de
-        muchos recursos económicos por sistema y es considerado un
-        privilegio de clase. Hacen que acabes necesitando de diferentes
-        valoraciones de diferentes profesionales y tener que buscar sin
-        parar porque sientes que no te toman en serio.
-
-    -   Te crean traumas en el proceso de diagnóstico por los puntos
-        anteriores
-
-    -   Te niegan adaptaciones con o sin un diagnóstico oficial por
-        capacitismo. Les neurotípiques suelen mostrarse contraries a la
-        accesibilidad por su odio hacia la gente discapacitada y a la
-        gente con funcionalidad diversa.
-
-    -   Los "intermediarios" (psicólogues, psiquiatras, etc) del proceso
-        de diagnóstico pueden llegar a ejercer su poder sobre si tienes
-        derecho a tener adaptaciones mediante los informes de
-        diagnóstico. De estos informes depende que recibas ayudas tanto
-        económicas como sociales, adaptaciones, etc. Si no hacen
-        informes suficientemente extensos y detallados no quedan
-        oficializadas tus dificultades y tus necesidades de apoyo.
-        Indirectamente pueden acabar siendo dueñes de tu capacidad para
-        sobrevivir en el sistema capitalista.
-
-    -   Y lo más importante: Tener un diagnóstico oficial de autismo no
-        te garantiza tener adaptaciones ni dejar de recibir violencia
-        por parte del sistema. Puede incluso puede volverse en tu
-        contra, especialmente si en algún momento pasas por hospitales o
-        centros de salud mental. La gente neurotípica tiene muchos
-        prejuicios respecto a la gente autista y disca que les llevan a
-        maltratarnos:
-
-        -   Asumirte como disfuncional, con discapacidad intelectual,
-            frágil, etc.
-        -   Dudar de nuestro diagnóstico por enmascarar bien o no
-            parecernos a personajes de ficción "autistas".
-        -   Darnos refuerzo positivo por no aparentar tener disfunción
-            ejecutiva o por enmascarar bien.
-
-2.  La segunda vía implica que tengas personas de referencia (autistas
-    preferiblemente) que te apoyen, aconsejen y acompañen en el proceso.
-    Requiere de mucha suerte y aunque no es una mala vía, las personas
-    deberían estar muy formadas para recomendarte cosas como:
+2.  🟡 La segunda vía implica que tengas personas de referencia
+    (autistas preferiblemente) que te apoyen, aconsejen y acompañen en
+    el proceso. Requiere de mucha suerte y aunque no es una mala vía,
+    las personas deberían estar muy formadas para recomendarte cosas
+    como:
 
     -   Formas de investigar sobre tus rasgos autistas.
     -   Lugares donde recibir ayuda profesional y diagnosticarte
@@ -172,12 +122,82 @@ del impostor son complicadas de navegar. Hay varias vías:
     -   La autoestimulación ("stimming") y sus diferentes formas
     -   En general todo está mal explicado y representado
 
-3.  La vía que te presentamos en esta guía: Nuestra idea es ofrecerte
+3.  🟢 La vía que te presentamos en esta guía: Nuestra idea es ofrecerte
     una manera autónoma de buscar respuestas que no requiera de
     tantísima burocracia, energía y que sea más fiable y por supuesto
-    gratis .
+    gratis.
 
-Crítica a los procesos de diagnóstico [Ir arriba]
+------------------------------------------------------------------------
+
+Violencia recibida en procesos de diagnóstico oficial
+
+Generalmente la violencia de este sistema y de sus seguidores tiene como
+características:
+
+-   ⁉️ Cuestionamiento:
+
+    -   Hacer valoraciones arbitrarias basadas en prejuicios.
+    -   Hacen que acabes cuestionando tu experiencia vital y tus rasgos
+        y entrar en crisis por la falta de apoyo y de refuerzo positivo.
+
+-   ☹️ Invalidación:
+
+    -   👎 Negarte la posibilidad de ser autista sin siquiera valorarte
+        ni hacerte ningún tipo de prueba o entrevista
+    -   ❌ No te escuchan incluso cuando les das una lista rasgos
+        claramente autistas. Rebajan su importancia/relevancia.
+
+-   🖕 Dependencia de intermediarios y precarización:
+
+    -   💰 Precarización: Hacen que tener un diagnóstico oficial
+        generalmente requiera de muchos recursos económicos por sistema
+        y es considerado un privilegio de clase. Incluso que puedas
+        necesitar de hacer diferentes valoraciones de diferentes
+        profesionales y tener que buscar sin parar porque sientes que no
+        te toman en serio.
+
+    -   🤑 Los "intermediarios" (psicólogues, psiquiatras, etc) del
+        proceso de diagnóstico pueden llegar a ejercer su poder sobre si
+        tienes derecho a tener adaptaciones mediante los 📝 informes de
+        diagnóstico.
+
+        De estos 📝 informes depende que recibas ayudas tanto económicas
+        como sociales, adaptaciones, etc. Si no hacen informes
+        suficientemente extensos y detallados no quedan oficializadas
+        tus dificultades y tus necesidades de apoyo. Indirectamente
+        pueden acabar siendo dueñes de tu capacidad para sobrevivir en
+        el 💹 sistema capitalista.
+
+-   🪓 Indefensión:
+
+    -   🧑‍🦼 Te niegan adaptaciones con o sin un diagnóstico oficial
+        puesto que tener un diagnóstico no te garantiza que te hagan
+        caso. por capacitismo.
+
+    -   🧑‍⚕️ Tener un diagnóstico oficial de autismo te puede hacer
+        recibir mas violencia por parte del sistema. Por ejemplo, si
+        pasas por hospitales o centros de "salud mental".
+
+-   🤮 Fascismo/Capacitismo: La gente neurotípica tiene muchos
+    prejuicios e ideologías de corte fascista, respecto a la gente disca
+    que les llevan a maltratarnos:
+
+    -   Son contraries a la accesibilidad por su odio hacia la gente
+        disca.
+    -   Te asumen como disfuncional, con discapacidad intelectual,
+        frágil, etc.
+    -   Si enmascaramos suficientemente bien nuestros rasgos autistas,
+        no aparentamos tener disfunción ejecutiva o no nos parecemos a
+        estereotipos basados en personajes populares de ficción
+        "autistas" pueden llegar a :
+        -   Cuestionar nuestro diagnóstico.
+        -   Darnos refuerzo positivo por no aparentar "tener una
+            enfermedad" o "funcionar de forma bastante neurotípica".
+
+-   😵‍💫 Te crean traumas en el proceso de diagnóstico por los puntos
+    anteriores.
+
+Crítica a los procesos de diagnóstico oficiales [Ir arriba]
 
 Por lo general, en los diagnósticos oficiales se evalúa lo "disruptivas"
 que son tus características personales generadas especificamente por tu
@@ -186,19 +206,15 @@ por esta. Si la persona que te evalúa es neurotípica, tendrán que:
 
 -   Tener bastante experiencia tratando con gente autista. Puesto que al
     no ser autistas no podrán aprender de si mismes.
--   Reaprender lo que se enseña en los libros oficiales de psicología
-    (DSM, ICE, etc).
+-   Deconstruir y desaprender lo que se enseña en los manuales de
+    psiquiatría (DSM, ICE, etc).
 -   Fijarse mucho en los detalles, cosa que a la gente neurotípica le
     cuesta especialmente, puesto que no suelen ser tan perceptives como
     nosotres ni tampoco sabrán lo que tendrán que ver. Si tus rasgos
     autistas no les parecen lo suficientemente "disruptivos" o
     estereotípicos es probable que su diagnóstico no sea correcto.
 
-Las pruebas que se utilizan para diagnosticar no te clasifiquen como
-autista. Les alistas que hacen diagnósticos y las pruebas diagnósticas
-como el ADOS-2, no son para nada tus aliades ni la mejor manera de medir
-si eres autista, y tampoco la “cantidad de autismo que tienes” por
-varias razones:
+⚠️ Aclaración
 
 -   No necesitas que une profesional te diagnostique para poder
     considerarte autista.
@@ -206,87 +222,108 @@ varias razones:
 -   El autodiagnóstico es válido para considerarse autista sin necesidad
     de profesionales.
 
--   Las pruebas diagnósticas no se usan como indicadores sino que
-    intentan ponerle un número a la "cantidad del autismo", que es ya de
-    por sí difícil de cuantificar. Puedes ver por qué es incorrecto en
-    la siguiente imagen (Ver imagen 1 abajo). Estas pruebas reducen el
-    autismo a un sistema de puntos. Son atajos acientíficos, es decir
-    que no siguen el método científico, puesto ni su eficacia ni sus
-    resultados son del todo verificables. Opino que generalmente son
-    atajos acientíficos para neurotípiques con baja capacidad de
-    percepción y poca sensibilidad hacia los rasgos autistas. Por otra
-    parte, las que se usan habitualmente (ADOS-2, etc) solo detectan
-    correctamente a personas que enmascaran poco, por lo general hombres
-    cis y detectan incorrectamente a mujeres y personas de otros
-    géneros. Nunca deberían tomarse como un requisito para ser
-    diagnosticade como autista sino como un indicador. La experiencia
-    autista propia y las entrevistas deberían ser lo mas importante.
+Crítica a las pruebas diagnósticas
 
--   Une profesional de diagnósticos puede errar a la hora de hacer la
-    evaluación de un diagnóstico y ser subjetive. Sin embargo, nuestra
-    experiencia puede ser verificada, discutida y observada por nuestro
-    entorno. Si practicamos la autoobservación y autopercepción durante
-    un tiempo podremos documentar de forma mucho más objetiva nuestros
-    rasgos autistas. Desde esta guía se propone un procedimiento que
-    sigue el método científico.
+Las pruebas que se utilizan para diagnosticar no te clasifiquen como
+autista. Les alistas que hacen diagnósticos y las pruebas diagnósticas
+(como el ADOS-2), no son para nada tus aliades ni la mejor manera de
+medir si eres autista, y tampoco la “cantidad de autismo que tienes” por
+varias razones:
 
--   En mi experiencia, me ha sido muy provechosos tener documentados
-    todos mis rasgos autistas, que realizar un diagnóstico sin una
-    documentación extensa de estos. Puesto que me daba mas credibilidad
-    tener preparada dicha documentación. Por ejemplo, después de mi
-    primer diagnóstico descubrí que sufría de misofonía (sensibilidad
-    selectiva al sonido) y que me llevaba a tener crisis muy intensas e
-    instantáneas. Me di cuenta de que no habría podido detectarlo sin un
-    entorno "hostil" o un estímulo muy desagradable que lo desencadene.
-    Cosa que en los diagnósticos es difícil que suceda. Por lo que hace
-    falta un análisis de los rasgos mas profundo que el habitual y una
-    investigación exhaustiva de muchos aspectos que normalmente se
+-   Pseudociencia: Las pruebas diagnósticas no se usan como indicadores
+    sino que intentan ponerle un número a la "cantidad del autismo", que
+    es ya de por sí difícil de cuantificar. Puedes ver por qué es
+    incorrecto en la siguiente imagen (Ver imagen 1 abajo). Estas
+    pruebas reducen el autismo a un sistema de puntos. Son atajos
+    acientíficos, es decir que no siguen el método científico, puesto ni
+    su eficacia ni sus resultados son del todo verificables. Opino que
+    generalmente son atajos acientíficos para neurotípiques con baja
+    capacidad de percepción y poca sensibilidad hacia los rasgos
+    autistas. Por otra parte, las que se usan habitualmente (ADOS-2,
+    etc) solo detectan correctamente a personas que enmascaran poco, por
+    lo general hombres cis y detectan incorrectamente a mujeres y
+    personas de otros géneros. Nunca deberían tomarse como un requisito
+    para ser diagnosticade como autista sino como un indicador. La
+    experiencia autista propia y las entrevistas deberían ser lo mas
+    importante.
+
+Sobre los procesos de diagnóstico
+
+-   Ambiente poco adecuado: Para detectar rasgos autistas, muchas veces
+    se necesita un nivel de estrés alto o una situación complicada para
+    desenmascarar a una mente autista. Esto no tiene por qué pasar
+    durante diagnóstico. Por ejemplo, después de mi primer diagnóstico
+    descubrí que sufría de misofonía (sensibilidad selectiva al sonido)
+    y que me llevaba a tener crisis muy intensas y rápidas. Me di cuenta
+    de que no habría podido detectarlo sin un entorno "hostil" o un
+    estímulo muy desagradable que lo desencadene. Cosa que en los
+    diagnósticos es difícil que suceda.
+
+-   Familiares enturbian el proceso: Para atajar y comprobar que la
+    persona no miente, se entrevista a familiares, se hacen pruebas
+    diagnósticas adaptadas a la percepción de la persona, etc.
+    Entrevistar a familiares puede ser útil pero también puede añadir
+    parcialidad, subjetividad, infantilización hacia la persona
+    diagnosticada y llevar a conclusiones erróneas que enturbian el
+    proceso de diagnóstico y perjudican a la persona que se está
+    diagnosticando. Un caso típico es el de les adres que no saben que
+    son neurodivergentes y asumen que sus hijes son normales o
+    simplemente que rellenan los huecos de su mala memoria con su
+    percepción subjetiva actual o pasada de sus hijes.
+
+-   Alargamiento artificial del proceso: Existen profesionales de que
+    realizan diagnósticos que se aprovechan de su posición de poder,
+    para alargar los procesos diagnósticos de forma arbitraria. Intentan
+    hacerte creer que el proceso es mas complicado de lo que en realidad
+    es.
+
+-   Ignoran el enmascaramiento en adultes: El diagnóstico en personas
+    adultas es mas difícil que en personas que no han tenido que
+    enmascarar tanto, especialmente si le profesional encargada no es
+    neurodivergente. Si eres adulte, hay que realizar una gran
+    investigación para ver la persona debajo de la máscara. Sin embargo,
+    los procesos diagnósticos generalmente obvian esto. Además intentan
+    replicar un diagnóstico infantil con “ayudas” priorizando la opinión
+    de tus adres por encima de tu vivencia. Generalmente, no nos ayuda
+    depender de personas neurotípicas por su exceso de confianza,
+    capacitismo y su ignorancia respecto al paradigma del autismo
+    actual.
+
+Ventajas del autodiagnóstico documentado
+
+-   Científico: Une profesional de diagnósticos puede errar a la hora de
+    hacer la evaluación de un diagnóstico y ser subjetive. Sin embargo,
+    nuestra experiencia puede ser verificada, discutida y observada por
+    nuestro entorno. Si practicamos la autoobservación y autopercepción
+    durante un tiempo podremos documentar de forma mucho más objetiva
+    nuestros rasgos autistas. Desde esta guía se propone un
+    procedimiento que sigue el método científico.
+
+-   Analisis profundo: En mi experiencia, me ha sido muy provechoso
+    tener documentados todos mis rasgos autistas, que realizar un
+    proceso de diagnóstico oficial. Puesto que me daba mas seguridad y
+    credibilidad tener preparada dicha documentación. Hace falta un
+    análisis de los rasgos mas profundo que el de un proceso oficial y
+    una investigación exhaustiva de muchos aspectos que normalmente se
     obvia.
 
--   Para detectar rasgos autistas, muchas veces se necesita un nivel de
-    estrés alto o una situación complicada para una mente autista. Esto
-    no tiene por qué pasar durante diagnóstico. Para atajar, se
-    entrevista a familiares, se hacen pruebas diagnósticas adaptadas a
-    la percepción de la persona, etc. Entrevistar a familiares puede ser
-    útil pero también puede añadir parcialidad, subjetividad,
-    infantilización hacia la persona diagnosticada y llevar a
-    conclusiones erróneas que enturbian el proceso de diagnóstico y
-    perjudican a la persona que se está diagnosticando. Un caso típico
-    es el de les adres que no saben que son neurodivergentes y asumen
-    que sus hijes son normales o simplemente que rellenan los huecos de
-    su mala memoria con su percepción subjetiva actual o pasada de sus
-    hijes.
-
--   El método que se propone en esta guía es rellenar la plantilla
-    adjunta. Creemos que puede ahorrarte muchos trámites y también de
+-   Autosuficiencia para diagnósticarse: El método que se propone en
+    esta guía es rellenar la plantilla adjunta en la sección de
+    descargas. Creemos que puede ahorrarte muchos trámites y también de
     hacer múltiples sesiones de diagnóstico. Se hace mucho más evidente
     y claro que eres neurodivergente cuando has documentado todos tus
     rasgos. Esta guía te sirve para documentar todas tus “dificultades”,
     necesidades y patrones y para tener una respuesta definitiva a la
     pregunta de si pudieras ser autista.
 
--   Existen profesionales de que realizan diagnósticos que se aprovechan
-    de su posición de poder, para alargar los procesos diagnósticos de
-    forma arbitraria. Intentan hacerte creer que el proceso es mas
-    complicado de lo que en realidad es.
-
--   El diagnóstico en personas adultas es mas difícil que en personas
-    que no han tenido que enmascarar tanto. Si eres adulte, hay que
-    realizar una gran investigación para ver la persona debajo de la
-    máscara. Sin embargo, los procesos diagnósticos generalmente obvian
-    esto. Además intentan replicar un diagnóstico infantil con “ayudas”
-    priorizando la opinión de tus adres por encima de tu vivencia.
-    Generalmente, no nos ayuda depender de personas neurotípicas por su
-    exceso de confianza, capacitismo y su ignorancia respecto al
-    paradigma del autismo actual.
-
--   Esta herramienta de autodiagnóstico es muchísimo más potente si se
-    usa correctamente, creo firmemente que es donde reside la verdadera
-    clave del autodiagnóstico y también del diagnóstico oficial.
-    Considero que esta herramienta seguirá siendo útil aunque vez que
-    cambien los manuales y pruebas de diagnóstico puesto que ha sido
-    creada en un esfuerzo colaborativo, uniendo las experiencias de la
-    comunidad autista.
+-   Método perenne y verificado por la comunidad.: Esta herramienta de
+    autodiagnóstico es muchísimo más potente si se usa correctamente,
+    creo firmemente que es donde reside la verdadera clave del
+    autodiagnóstico y también del diagnóstico oficial. Considero que
+    esta herramienta seguirá siendo útil aunque vez que cambien los
+    manuales y y metodologías de las pruebas de diagnóstico. Ha sido
+    creada en un esfuerzo colaborativo por la comunidad autistas,
+    uniendo las experiencias de todes.
 
 Imagen 1.
 
@@ -308,17 +345,56 @@ Desde esta guía proponemos que para mejorar el proceso de diagnóstico,
 la mejor manera es documentar todos los rasgos que se puedan interpretar
 como "divergentes a la norma", neurodivergentes y autistas. Para
 documentarlos se proporciona una plantilla que debe ser rellenada
-extensamente para poder explicar tus dinámicas personales. Lo ideal es
-la plantilla fuera rellenada de la siguiente manera:
+extensamente para poder explicar tus dinámicas personales.
 
--   Debería tener ejemplos de elementos en todas las secciones.
--   Los ejemplos a ser posible, deberían ser generalizados para poder
-    explicar tus dinámicas de forma completa y explicando sus diferentes
-    matices.
--   Las explicaciones de los rasgos deberían incluir como ha variado tu
-    comportamiento a lo largo de tu vida con su correspondiente
-    razonamiento. Por lo tanto, los rasgos que hayan sido enmascarados o
-    trabajados deberían incluirse y explicar dicha evolución.
+¿Como rellenar la plantilla de autodiagnóstico?
+
+Lo ideal es la plantilla fuera rellenada con una serie de rasgos
+relacionados entre si:
+
+-   Debería rellenarse de la manera mas completa y amplia posible.
+
+-   Debería tener ejemplos de cada rasgo en todas las secciones
+
+-   Debería haber coherencia entre los diferentes rasgos y ejemplos
+    para:
+
+    1.  Poder explicar tus dinámicas de forma completa y explicando sus
+        diferentes matices
+    2.  Que mejore la coherencia de tu historia
+
+-   Una propuesta de estructura para anotar cada rasgo:
+
+    1.  Descripción aproximada del rasgo.
+          "Me cuesta socializar en ambientes con gente neurotípica. No
+          consigo hablar de mis temas de interés y acabo en crisis
+          cuando llego a casa"
+    2.  Ejemplos de las ocurrencias del rasgo: Indicar el mayor número
+        posible indicando frecuencia, lugares, entorno, etc para mejorar
+        la verosimilitud de tu plantilla de rasgos.
+          "Me ocurre siempre que salgo de fiesta, especialmente en
+          discotecas o bares ruidosos. La gente suele tener dinámicas de
+          exclusión y no me deja hablar."
+    3.  Relaciones con otros rasgos: Indicar que otros rasgos pueden
+        estar interactuando con el que se está describiendo y de que
+        manera.
+          "Sufro de sobrecarga sensorial al pasar mucho rato en ese
+          ambiente social y aparte se me junta con una hipersensibilidad
+          al ruido por el alto sonido de la música o por el ritmo que en
+          ocasiones me dificulta la autoestimulación."
+    4.  Diferencias temporales: Sería bueno explicar como ha cambiado tu
+        vivencia a lo largo de los años. Es muy bueno para relacionarlo
+        con cambios en la percepción sensorial, procesamiento de las
+        emociones, etc. Para que los rasgos que hayan sido enmascarados
+        o trabajados se incluyan y se explique dicha evolución.
+          "Antes no tenía ningún problema salvo algo de cansancio de
+          socializar pero con el tiempo mi el ambiente ruidoso me ha ido
+          afectando mas y me ha generado un rechazo a esta clase de
+          ambientes".
+    5.  Conclusiones respecto al rasgo.
+          "La forma de relacionarme con gente neurotípica es hostil para
+          mi y poco accesible. Aparte, se me hace difícil estar en
+          espacios como discotecas y bares."
 
 ¿Como evaluar nuestros rasgos?
 
@@ -374,6 +450,8 @@ Glosario [Ir arriba]
 
 [imagen]
 
+------------------------------------------------------------------------
+
 Apartados [Ir arriba]
 
 Interacción/comunicación social atípica [Ir arriba]
@@ -385,134 +463,177 @@ social que no encaje y que provoque fricciones en todos los ámbitos
 relacionales. Familia, conocidos, extraños, grupos de interacción social
 intensa (amistad y pareja).
 
+------------------------------------------------------------------------
+
 Reciprocidad socio-emocional / Empatía y alexitimia [Ir arriba]
 
   ¿Te cuesta mucho saber qué sientes? Y ¿saber lo que sienten les demás?
   ¿No suelen entender cómo o por qué sientes?
 
-Les autistas solemos tener problemas para identificar cómo nos sentimos
-por dentro. Esto sucede por las dificultades para procesar la
-información que nuestro cuerpo nos da respecto a cómo estamos por
-dentro. Esto sucede porque el sentido que se encarga de informarnos de
-nuestro estado interno nos satura y podemos tardar mas tiempo en
-procesarlo. Dicho sentido es el de la interocepción que nos informa del
-estado interno de múltiples partes del cuerpo. Gracias a este sentido
-sabemos si tenemos hambre, estamos tristes o si sentimos cualquier tipo
-de dolor (emocional o físico). El cuerpo dispone de receptores por todo
-el cuerpo que actúan como un sistema de alertas que captan cualquier
-problema. Los tipos de receptores captan sensaciones musculares, presión
-en articulaciones, temperatura, presión sanguínea, dolor, estado de cada
-órgano del cuerpo. Como añadido a esto, es importante saber les autistas
-estamos muy influides por nuestro sistema digestivo. Por lo cual, es muy
-importante atenderlo para autorregularnos mejor.
+En la plantilla de autodiagnóstico querremos apuntar todas las:
 
-La alexitimia se define como la dificultad o incapacidad para detectar
-cómo nos sentimos tanto fisiológicamente como emocionalmente, por lo
-tanto nos cuesta mucho mas explicar nuestros sentimientos y sensaciones.
+-   Empatía autista / Manifestaciones atípicas de empatía
+    -   Opinión y explicación de la manera en las que se perciben las
+        normas sociales respecto a la expresión emocional y la empatía.
+    -   Tu propia percepción sobre como funciona tu expresión emocional
+        y tu empatía.
+-   Alexitimia: Dificultades para identificar e interpretar los
+    sentimientos propios y ajenos.
+    -   Alexitimia emocional
+    -   Alexitimia fisiológica
 
-Ejemplos: No percibir cuando tienes sed o hambre. Ayer mismo, hasta que
-no llegué a un espacio seguro y conocido (mi casa) no detecté mis ganas
-de ir al baño y de beber agua, a pesar de tener un gran dolor de cabeza.
-Sin embargo, la sensación de hambre, para mí, siempre es evidente.
+------------------------------------------------------------------------
 
-Causas de la alexitimia Se dice que existe un problema de conexión entre
-las áreas del cerebro que se ocupan del procesamiento del lenguaje y el
-sentido de la interocepción, es decir, de convertir sensaciones a
-palabras. Posiblemente cuando el sentido de la interocepción proporcione
-demasiada información o una información poco común, cueste mucho mas
-transformarlo a palabras o siquiera entenderlo. Esto explicaría la
-alexitimia en ciertos elementos pero hay otro factor muy importante que
-hay que considerar: La alexitimia causada por haber tenido episodios
-largos de disociación, desrrealización y despersonalización
-especialmente durante la infancia.
+Alexitimia
 
-Generalmente durante la infancia a la gente autista se le reprime,
-castiga y maltrata. Si actúan de una manera que les alistas no
-consideran apropiada según sus esquemas hace que les lleve a tener que
-distanciarse del dolor y acaban creando una coraza. Les cuesta mucho mas
-llegar a sus sentimientos, tanto buenos como malos. Este proceso a largo
-plazo provoca la alexitimia emocional.
+Se define como la dificultad o incapacidad para detectar cómo nos
+sentimos tanto fisiológicamente como emocionalmente, por lo tanto nos
+cuesta mucho mas explicar nuestros sentimientos y sensaciones.
 
-Sobre la empatía autista Les autistas no tenemos menos empatía que las
-personas alistas. Al contrario, podemos ser hiperempátiques, sin
-embargo, existe una dificultad para expresarla de la manera alista. Por
-lo general, la gente autista suele tener mejores capacidades para
-reconocer patrones visuales o sociales. Con lo cual, se nos da mucho
-mejor detectar ocasiones en las que una persona puede sufrir y, sin
-embargo, no tenemos por qué procesar esto de la forma alista, que es más
-bien automáticamente emocional. Sin embargo, cuando hemos puesto
-palabras y le hemos dado explicación (racional) a la emoción ajena,
-suele haber una forma racional de ayudar a les demás. Hacemos un
-esfuerzo consciente para entender y ayudar de la mejor manera a les
-demás, solemos dar información relevante o mecanismos que a nosotres nos
-sirven para resolver dicho sufrimiento; somos pragmátiques.
+  Otra forma de explicar la alexitimia es que de forma habitual
+  mezclamos sensaciones con sentimientos. Funcionan como unos hilos que
+  no se pueden desenredar.
 
-Ejemplos:
+Al no detectar de forma clara sensaciones, sentimientos y mezclarlos, a
+les autistas nos cuesta poner remedio a nuestras necesidades
+(fisiológicas y emocionales).
+
+ℹ️ Ejemplos:
+
+-   No percibir cuando tienes sed o hambre
+
+      "Hasta que no llegué a un espacio seguro y conocido (mi casa) no
+      detecté mis ganas de ir al baño y de beber agua, a pesar de tener
+      un gran dolor de cabeza. Sin embargo, la sensación de hambre, para
+      mí, siempre es evidente.
+
+-   Entrar en una espiral de confundir nerviosismo con hambre y pasar el
+    día sin comer y con ansiedad.
+
+-   No detectar que el daño emocional, para conocer el origen y ponerle
+    remedio, hasta que es demasiado tarde. => Como no alejarse de
+    alguien que te trata mal hasta caer en depresión.
+
+-   No darte cuenta de que estás incómode en una situación por unas
+    hipersensibilidades (un ruido muy fuerte, contacto con una textura
+    desagradable, etc.) y confundirlo con un enfado (con alguien). Y que
+    al retirar las cosas que te provocan ese desagrado se resuelva el
+    problema.
+
+-   A veces me siento mal y tengo que repasar los eventos del día para
+    ver cuál es la causa.
+
+-   También puedo tener meltdowns sin saber por qué y me doy cuenta de
+    que mi ambiente es saturante o que se produce misautismia hacia mí.
+
+Causas de la alexitimia
+
+1.  🧠 Saturación por exceso de información sensorial: La alexitimia
+    fisiológica se produce cuando nuestro sistema interoceptivo (o
+    sentido de la interocepción) nos satura el cerebro de información
+    sensorial. Podemos tardar mas tiempo en procesarla y entender que
+    nos pasa.
+
+    Se dice que existe un problema de conexión entre las áreas del
+    cerebro que se ocupan del procesamiento del lenguaje y el sentido de
+    la interocepción, es decir, de convertir sensaciones a palabras.
+    Posiblemente cuando el sentido de la interocepción proporcione
+    demasiada información o una información poco común, cueste mucho mas
+    transformarlo a palabras o siquiera entenderlo.
+
+2.  😷 Enmascaramiento prolongado: Se puede producir alexitimia
+    emocional por haber sufrido episodios largos de disociación,
+    desrrealización y despersonalización, especialmente durante la
+    infancia.
+
+    Generalmente durante la infancia a la gente autista se le reprime,
+    castiga y maltrata. Si actúan de una manera que la sociedad alista
+    no considera aceptable hace que la gente se distancie de sus
+    sentimientos para protegerse del dolor. Se acaba formando una
+    "coraza" que es difícil de quitar a largo plazo y que posiblemente
+    nunca se puede quitar del todo.
+
+Sistema interoceptivo
+
+Dicho sentido nos informa del estado interno de múltiples partes del
+cuerpo. Nos informa de cosas como:
+
+-   Si tenemos hambre
+-   Estamos tristes
+-   Si sentimos dolor (emocional o físico).
+
+[Sistema interoceptivo]
+
+El cuerpo dispone de receptores por todo el cuerpo que actúan como un
+sistema de alertas que captan cualquier problema. Los tipos de
+receptores captan:
+
+-   💪 Sensaciones musculares
+-   🦶 Presión en articulaciones
+-   🌡️Temperatura
+-   🩸 Presión sanguínea
+-   🤕 Dolor
+-   🫀 Estado de cada órgano del cuerpo
+
+------------------------------------------------------------------------
+
+Sobre la empatía autista
+
+Les autistas no tenemos menos empatía que las personas alistas. Al
+contrario, podemos ser hiperempátiques, sin embargo, existe una
+dificultad para expresarla de la manera alista. Por lo general, la gente
+autista suele tener mejores capacidades para reconocer patrones visuales
+o sociales. Con lo cual, se nos da mucho mejor detectar ocasiones en las
+que una persona puede sufrir y, sin embargo, no tenemos por qué procesar
+esto de la forma alista, que es más bien "automáticamente emocional".
+Sin embargo, cuando hemos puesto palabras y le hemos dado explicación
+(racional) a la emoción ajena, suele haber una forma racional de ayudar
+a les demás. Hacemos un esfuerzo consciente para entender y ayudar de la
+mejor manera a les demás, solemos dar información relevante o mecanismos
+que a nosotres nos sirven para resolver dicho sufrimiento; somos
+pragmátiques.
+
+ℹ️ Ejemplos:
 
 -   Quedarse bloqueades ante una situación, no reaccionar de forma
     emocional ante una situación (conflictiva, triste, etc.), no
     contagiarse de la emoción, preguntarnos qué deberíamos sentir en la
     situación o plantearnos de qué manera deberíamos demostrar nuestras
     emociones (consolar, enfadarnos, ignorar, etc.).
--   Dificultad para entender los mensajes o las emociones ajenas (que
-    pueden convertirse con frecuencia en malentendidos), dificultad para
-    expresar las emociones que puedan demostrar “activamente” empatía,
-    racionalización de las emociones generalizada, aconsejar en base a
-    nuestra experiencia y la percepción de la situación, etc.
--   No entender que alguien está triste hasta que llora, preguntar por
-    cómo se siente alguien porque no entendéis su tono.
--   No entender el concepto de “enamoramiento fisiológico” porque no
-    habéis notado “el subidón” y acabáis pensando que no tenéis
-    sentimientos porque no os enamoráis de la forma alista.
--   Vuestro cuerpo os "pide" acercaros o alejaros de alguien pero no
-    sabéis por qué. Esto pasa cuando alguien realmente os hace estar a
-    gusto/a disgusto y actuáis por inercia. El cuerpo es muy sabio,
-    hacedle caso menos cuando os olvidáis de hacerle caso.
 -   Usar un “manual mental” para saber qué hacer en cada caso según se
     presente cada emoción ajena o cada patrón de comunicación y
     frustrarse cuando las cosas no salen según los “manuales”.
 -   Que nos acusen de egoísmo al no comunicarnos de la forma alista y
     automáticamente "empática"/emocional frente a una situación de
     sufrimiento ajeno o un conflicto.
+-   Dificultad para entender los mensajes o las emociones ajenas (que
+    pueden convertirse con frecuencia en malentendidos)
+-   Dificultad para expresar las emociones que puedan demostrar
+    “activamente” empatía.
+-   Racionalización de las emociones generalizada.
+-   Aconsejar en base a nuestra experiencia y la percepción de la
+    situación, etc.
+-   No entender que alguien está triste hasta que llora
+-   Preguntar por cómo se siente alguien porque no entendéis su tono.
+-   No entender el concepto de “enamoramiento fisiológico” porque no
+    habéis notado “el subidón” y por lo tanto pensar que no tenéis
+    sentimientos porque no os enamoráis de la forma alista.
+-   Que vuestro cuerpo os "pida" acercaros o alejaros de alguien pero no
+    sabéis por qué. Esto pasa cuando alguien realmente os hace estar a
+    gusto/a disgusto y actuáis por inercia. El cuerpo es muy sabio,
+    hacedle caso menos cuando os olvidáis de hacerle caso.
 
-En la plantilla querremos apuntar todas las manifestaciones atípicas de
-empatía, dificultades de expresión verbal e identificación de
-sentimientos propios.
+------------------------------------------------------------------------
 
-Podríamos decir que otra cara de la alexitimia es que para nosotres es
-habitual mezclar sensaciones con sentimientos. Funcionan como unos hilos
-que no se pueden desenredar.
+Comunicación no verbal [Ir arriba]
 
-Al no detectar de forma clara sensaciones, sentimientos y mezclarlos, a
-les autistas nos cuesta poner remedio a nuestras necesidades
-(fisiológicas y emocionales).
-
-Ejemplos:
-
--   Entrar en una espiral de confundir nerviosismo con hambre y pasar el
-    día sin comer y con ansiedad.
--   No detectar que están tristes para conocer el origen y ponerle
-    remedio hasta que es demasiado tarde. Por ejemplo, no alejarse de
-    alguien que te trata mal hasta caer en depresión.
--   No darte cuenta de que estás incómode en una situación por unas
-    hipersensibilidades (un ruido muy fuerte, contacto con una textura
-    desagradable, etc.) y confundirlo con un enfado (con alguien). Y que
-    al retirar las cosas que te provocan ese desagrado se resuelva el
-    problema.
--   A veces me siento mal y tengo que repasar los eventos del día para
-    ver cuál es la causa.
--   También puedo tener meltdowns sin saber por qué y me doy cuenta de
-    que mi ambiente es saturante o que se produce misautismia hacia mí.
-
--   Comunicación no verbal [Ir arriba]
-
-      Tengo una comunicación muy diferente de la alista que mola mucho,
-      les parece muy rara a les neurotípiques.
+  Tengo una comunicación muy diferente de la alista que mola mucho, les
+  parece muy rara a les neurotípiques.
 
 Se deberían incluir los patrones atípicos que divergen de lo que se
 considera una comunicación “natural” según parámetros neurotípicos.
 
-Ejemplos:
+ℹ️ Ejemplos:
 
 -   No mirar a directamente a los ojos de otra persona
 -   No usar gestos o usarlos excesivamente
@@ -524,29 +645,41 @@ Ejemplos:
     una persona muy conocida por esto, sin embargo, es una persona
     autista y no es bien vista socialmente.
 
--   Dificultad con amistades y relaciones [Ir arriba]
+------------------------------------------------------------------------
 
-      Las dinámicas de grupo autistas son raras para alistas y estamos
-      aquí para demostrarlo.
+Dificultad con amistades y relaciones [Ir arriba]
 
-Se deberían incluir los problemas para tener relaciones tanto colectivas
-como individuales.
+  Las dinámicas de grupo autistas son raras para alistas y estamos aquí
+  para demostrarlo.
 
-Ejemplos: Los rasgos más comunes son malentendidos diversos, choques
-“culturales” (cultura alista vs autista), problemas para seguir
-dinámicas de grupo menos inclusivas, necesidad de acercarse despacio a
-las interacciones sociales, dificultad con el contacto físico
-espontáneo, incapacidad para conectar los intereses propios e
-hiperfijaciones con los intereses ajenos. Es muy común necesitar
-controlar el desarrollo de las interacciones sociales porque pueden ser
-muy agotadoras para una persona autista y de ahí la teoría/metáfora de
-las cucharas de azúcar diarias. Hay actividades sociales o personas que
-pueden consumir la energía social muy rápido o, por el contrario, pueden
-ayudar a conservar o generar esa energía.
+En esta sección de la plantilla de autodiagnóstico se deberían incluir
+los problemas para relacionarse socialmente tanto en grupo como con de
+uno a uno.
 
--   Disidencias respecto a convenciones sociales [Ir arriba]
+ℹ️ Ejemplos:
 
-      La gente autista tiende a ser o muy progre o muy conservadora
+-   Malentendidos diversos.
+-   Problemas para seguir dinámicas de grupo menos inclusivas.
+-   Necesidad de acercarse despacio a las interacciones sociales.
+-   Dificultad con el contacto físico espontáneo.
+-   Incapacidad para conectar los intereses propios e hiperfijaciones
+    con los intereses ajenos.
+-   Choques “culturales” (cultura alista/mayoritaria vs autista).
+
+Metáfora de las cucharas
+
+Es muy común necesitar controlar el desarrollo de las interacciones
+sociales porque pueden ser muy agotadoras para una persona autista y de
+ahí la teoría/metáfora de las cucharas de azúcar diarias. Hay
+actividades sociales o personas que pueden consumir la energía social
+muy rápido o, por el contrario, pueden ayudar a conservar o generar esa
+energía.
+
+------------------------------------------------------------------------
+
+Disidencias respecto a convenciones sociales [Ir arriba]
+
+  La gente autista tiende a ser o muy progre o muy conservadora
 
 Aquí entraría un aspecto que no es muy comentado en las guías, que son
 todos los aspectos que se consideran disidentes en la manera en la que
@@ -558,6 +691,7 @@ Aspectos que me parecen disidentes:
 -   No ser individualista, pensar en el bien común y buscar la justicia
 -   No ser cisgénero o no asumir como natural el género impuesto
 -   Formar parte del colectivo LGTBIAQ+
+-   Tener una relación poco normativa con la sexualidad.
 -   No ser una persona religiosa o ser antirreligiosa. También tener una
     religión o modelo de creencias alternativa a tu medida. (Paganismo,
     etc.)
@@ -567,16 +701,18 @@ Aspectos que me parecen disidentes:
 -   No tomar drogas de forma recreativa (Discutible)
 
 Hay un sector de la gente autista que, por el contrario, es bastante
-conservadora. Si no, no se explicaría que hubiera tanta gente de la
-generación "boomer" siendo tan egoísta y que, sin embargo, les siguen
-costando las convenciones sociales y siguen patrones de pensamiento
-autista.
+conservadora. Si no, no se explicaría que hubiera tanta gente de hace
+varias generaciones siendo tan egoísta y que, sin embargo, les siguen
+costando las convenciones sociales y siguen siendo autistas con sus
+rasgos y dificultades.
+
+------------------------------------------------------------------------
 
 Comportamientos y actividades restrictivas/repetitivas [Ir arriba]
 
   Relacionarse con une misme
 
--   Autoestimulación / "Stimming" [Ir arriba]
+Autoestimulación / "Stimming" [Ir arriba]
 
 Toda actividad de autoestimulación que se produce cuando necesitas
 autorregulación. Puede ir desde movimientos del cuerpo tanto en una
@@ -585,7 +721,7 @@ cuando no existe un plan a seguir y no hay una concentración total sobre
 este, como cuando durante un plan que requiere bastante concentración
 hay capacidad mental y necesidad de estimularse.
 
-Ejemplos:
+ℹ️ Ejemplos:
 
 -   Manipular objetos con las manos (bolis, juguetes, etc.)
 -   Andar por una habitación cuando llevas mucho tiempo sentade,
@@ -600,10 +736,12 @@ Ejemplos:
     etc.) o canales de multimedia.
 -   Moverse al ritmo de la música
 
--   Comportamiento rígido y patrones de pensamiento atípicos y/o autistas [Ir arriba]
+------------------------------------------------------------------------
 
-      Funciono A -> B -> C porque siempre me funciona y me cuesta no
-      hacerlo.
+Comportamiento rígido y patrones de pensamiento atípicos y/o autistas [Ir arriba]
+
+  Funciono A -> B -> C porque siempre me funciona y me cuesta no
+  hacerlo.
 
 Aquí pondremos todos los aspectos que consideremos extraños y es de las
 partes que requiere más autorreflexión. La rigidez mental es la
@@ -621,7 +759,7 @@ costar salir de ellos o cambiar esos mundos. La idea sería explicar que
 es lo que compone tu pequeño mundo y cómo interactúas con el mundo
 exterior a este.
 
-Ejemplos de patrones autistas:
+ℹ️ Ejemplos de patrones autistas:
 
 -   La literalidad en la comunicación
 -   La hiperfuncionalidad ejecutiva o la disfuncionalidad ejecutiva,
@@ -640,7 +778,9 @@ Ejemplos de patrones autistas:
 -   Hay muchos más que se pueden buscar o leer fuera, pero creo que es
     un buen resumen.
 
--   Ecolalias [Ir arriba]
+------------------------------------------------------------------------
+
+Ecolalias [Ir arriba]
 
 Generalmente consiste en la repetición de palabras de forma sistemática.
 Se podría decir que es un "eco" respecto a alguna frase o elemento por
@@ -649,7 +789,9 @@ misme, en películas, en audios, etc. Generalmente con componente sonoro,
 pero no tiene por qué. Normalmente, se repiten las últimas palabras que
 dice la otra persona en una conversación con el fin de generar una
 respuesta que es esperada por les alistas sin tener que hacer un
-esfuerzo comunicativo. Ejemplo:
+esfuerzo comunicativo.
+
+Ejemplo clásico:
 
     — Pues hoy fui al trabajo, mi jefe me gritó, acabé muy tarde y estoy muy cansade. En fin, día de mierda.
     — Día de mierda.
@@ -658,16 +800,17 @@ esfuerzo comunicativo. Ejemplo:
     — ¿Estás repitiendo ecolálicamente todo lo que digo?
     — Todo lo que digo.
 
-Es el ejemplo más clásico, aunque la definición puede ser más amplia,
-por ejemplo, repetir conversaciones, canciones, sonidos (como zumbidos
-por ejemplo), repetición de pensamientos, etc. Les autistas que somos
-capaces de hacer masking no solemos identificarnos con la ecolalia, pues
-llega a ser un masking muy interiorizado si eres consciente de ello, sin
-embargo, si se prueba a conversar de esta forma se puede encontrar como
-satisfactorio, o que os requiere menos cucharas, o que os permite
-generar una respuesta comunicativa a la vez que se piensan o hacen otras
-cosas. Además, puede ser una forma de autorregulación ("stimming"). No
-hay que confundirlo con el lenguaje preformado, en el que se dan
+Les autistas que somos capaces de hacer masking no solemos
+identificarnos con la ecolalia, pues llegamos a tenerlo muy enmascarado
+sin darnos cuenta. Sin embargo, si se prueba a conversar de esta forma
+se puede encontrar como satisfactorio, o que os requiere menos cucharas,
+o que os permite generar una respuesta comunicativa a la vez que se
+piensan o hacen otras cosas. Además, puede ser una forma de
+autorregulación ("stimming").
+
+⚠️ Aclaración
+
+No hay que confundirlo con el lenguaje preformado, en el que se dan
 respuestas también automáticas, pero no son generadas a raíz de lo que
 se escucha o se ha estado escuchando, sino que suelen ser meditadas y
 requieren un mayor esfuerzo cognitivo a priori, a modo de pensar en
@@ -675,8 +818,11 @@ posibles respuestas a determinadas situaciones en conversaciones, y
 luego realizarlas ya pensadas de forma más automática para satisfacer
 las demandas de respuesta de le interlocutore.
 
-Otros ejemplos:
+ℹ️ Otros ejemplos:
 
+-   Repetir conversaciones, canciones, sonidos (como zumbidos por
+    ejemplo)
+-   Repetición de pensamientos
 -   Escribir con las manos lo que se está escuchando como si estuvieses
     haciendo mecanografía
 -   Repetir un sonido que te ha sobresaltado
@@ -688,48 +834,59 @@ Otros ejemplos:
     seguir el juego. Como responder a un sticker con otro del mismo
     pack, un gif en respuesta a otro gif, básicamente como haciendo eco.
 
--   Intereses especiales [Ir arriba]
+------------------------------------------------------------------------
+
+Intereses especiales [Ir arriba]
 
   Tengo temas que me emocionan y me llenan pero a la gente alista la
   parece raro. ¿Que está pasando?
 
-La idea es desgranar tus intereses especiales y analizar de qué manera
-los disfrutas si es posible, y reflexionar sobre qué diferencias ves
-entre la forma en que la gente neurotípica suele gustar de sus intereses
-y la tuya. Si tienes un grupo de aficiones en común con gente
-neurotípica esto será más fácil. Normalmente, les autistas tenemos
-hiperfijación por ciertos temas, de manera que somos capaces de hablar
-de dicho tema sin parar, de estar pensándolo durante largos periodos de
-tiempo y disfrutándolos, sin embargo, esto para las personas alistas no
-es algo natural y pueden pensar fácilmente de nosotres que somos
-obsesives o que tenemos algún problema (en realidad el problema es el
-prejuicio de pensar que esto es algo malo cuando nosotres lo disfrutamos
-y, de hecho, podemos aportar grandes cosas a raíz de esta capacidad).
-Estos intereses especiales no siempre son constantes y pueden ir
-cambiando con el tiempo. Lo más importante es que sea un tema que nos
-llame la atención sin importar la capacidad que tengamos para dominarlo.
-No tiene que ser algo muy en profundidad ni requiere de tener una gran
-capacidad para retener información, puede ser algo incluso banal. Por
-ejemplo, como la gente que se decora la casa de forma muy bizarra en
-base a una idea o que te gusten ciertos pantalones. Pueden ser temas muy
-amplios, como política, ética, filosofía, arte, matemáticas; juegos o
-videojuegos que podemos jugar durante días sin parar; libros, series,
-animes que somos capaces de ver repetitivamente hasta aprenderlos de
-memoria; y, de hecho, también pueden ser personas (muchas veces asociado
-a una atracción romántica, pero no siempre) (motivo por el cual también
-nos llaman obsesives).
+Normalmente, les autistas tenemos hiperfijación por ciertos temas, de
+manera que somos capaces de hablar de dicho tema sin parar, de estar
+pensándolo durante largos periodos de tiempo y disfrutándolos, sin
+embargo, esto para las personas alistas no es algo natural y pueden
+pensar fácilmente de nosotres que somos obsesives o que tenemos algún
+problema (en realidad el problema es el prejuicio de pensar que esto es
+algo malo cuando nosotres lo disfrutamos y, de hecho, podemos hacer
+grandes aportes a raíz de esta capacidad).
 
--   Problemas sensoriales [Ir arriba]
+¿Como pueden ser mis intereses especiales?
 
-  Mucho estímulo, quiero tranquilidad en mis sentidos
+⚠️Aclaraciones
 
-A veces pueden ser difíciles de sacar a la luz si no son muy
-disruptivos, pero deberías desgranar todos tus problemas con los cinco
-sentidos y reflexionar sobre cuáles son los estímulos más molestos. Por
-otra parte, también puedes añadir tus pensamientos sobre los casos en
-los que piensas que sufres más que la gente normal.
+-   ❌ No son peligrosos ni dañinos, todo lo contrario.
+-   ❌ No siempre son constantes y pueden ir cambiando con el tiempo.
+-   ❌ No tiene que ser algo muy en profundidad ni requiere de tener una
+    gran capacidad para retener información.
+-   ❌ No tiene por qué ser algo muy "intelectual", puede ser algo
+    banal.
 
--   Compulsiones y TOCs [Ir arriba]
+Lo más importante es que sea un tema que nos llame la atención sin
+importar la capacidad que tengamos para dominarlo.
+
+ℹ️ Ejemplos: Gente se decora la casa de forma muy bizarra siguiendo
+ciertos patrones o temas. Una prenda de ropa concreta.
+
+Pueden ser temas muy amplios, como política, ética, filosofía, arte,
+matemáticas; juegos o videojuegos que podemos jugar durante días sin
+parar; libros, series, animes que somos capaces de ver repetitivamente
+hasta aprenderlos de memoria; y, de hecho, también pueden ser personas
+(muchas veces asociado a una atracción romántica, pero no siempre)
+motivo por el cual también nos llaman obsesives.
+
+En esta sección de la plantilla de autodiagnóstico deberías analizar tus
+intereses especiales. Deberías desgranarlos y explicar cuales son y de
+qué manera los disfrutas, si es posible. También puedes intentar
+reflexionar sobre qué diferencias ves entre la forma en que la gente
+neurotípica interactúa cuando compartes con elles tus intereses. Puedes
+analizar sobre la intensidad y las maneras en las que disfrutas de tus
+intereses especiales comparado con el resto. Si tienes un grupo basado
+en aficiones en común con gente neurotípica esto será más fácil de
+analizar.
+
+------------------------------------------------------------------------
+
+Compulsiones y TOCs [Ir arriba]
 
 Las compulsiones son conductas que se dan a raíz de pensamientos
 intrusivos que generan malestar y angustia, por tanto, suponen un
@@ -741,18 +898,105 @@ restringidos...) también son considerados "obsesiones". El concepto de
 obsesión está estigmatizado socialmente y se consideran conductas a
 corregir, pero lo realmente peligroso para la salud mental es
 compulsionar, ya que la evitación supone dejar de exponerse a
-situaciones conflictivas. La diferencia radica en que las
-hiperfijaciones, rutinas e intereses NO suponen peligro para la persona,
-sino que son conductas necesarias para el bienestar de la persona
-autista. Asimismo, no podemos olvidar que existen las co-ocurrencias de
-TOC y compulsiones, por lo que una persona autista puede presentar
-compulsiones y en unas ocasiones estará actuando en base a sus rasgos, y
-en otras ocasiones estará "compulsionando". En conclusión, que una
-persona tenga TOCs no invalida que sea autista en ningún caso y además,
-en caso de co-ocurrencia es recomendable que aprenda a identificar los
-rasgos de sus compulsiones.
+situaciones conflictivas.
 
--   Enfermedades, trastornos y condiciones conocidos [Ir arriba]
+Conclusión sobre TOCs y compulsiones
+
+La diferencia radica en que las hiperfijaciones, rutinas e intereses NO
+suponen peligro para la persona, sino que son conductas necesarias para
+el bienestar de la persona autista. Asimismo, no podemos olvidar que
+existen las co-ocurrencias de TOC y compulsiones, por lo que una persona
+autista puede presentar compulsiones y en unas ocasiones estará actuando
+en base a sus rasgos, y en otras ocasiones estará "compulsionando".
+
+En conclusión, que una persona tenga TOCs no invalida que sea autista en
+ningún caso y además, en caso de co-ocurrencia es recomendable que
+aprenda a identificar los rasgos de sus compulsiones.
+
+------------------------------------------------------------------------
+
+Sensorialidad atípica [Ir arriba]
+
+  Sácame de aquí. Hay demasiada luz, ruido, olores, sabores, texturas,
+  etc.
+
+  Acabo de golpearme con algo no me duele, tendría que irme al hospital.
+
+Les autistas procesamos los estímulos de forma diferente a la gente
+alista por nuestro cerebro conectado.
+
+Términos importantes
+
+-   Hipersensibilidad: Sucede cuando recibimos los estímulos con mas
+    intensidad de lo típica. Nuestro cerebro gasta mucha mas energía en
+    procesar ciertos estímulos porque son demasiada información que
+    procesar. Esto produce una sobrecarga sensorial que es una de las
+    causas mas comunes de las crisis autistas ("burnout", "shutdown",
+    "meltdown", etc). en neurodivergentes.
+
+    ℹ️ Ejemplo: Sufrir de misofonía con 🧨 explosiones de petardos,
+    ladridos, maquinaria, etc.
+
+-   Hiposensibilidad: No reaccionamos a los estímulos.
+
+    ℹ️ Ejemplos: No tener (muchas) cosquillas. No sentir dolor en
+    ciertos casos.
+
+¿Como descubrir tus hipersensibilidades?
+
+Hay que estudiar los ocho sentidos y pensar en tu respuesta a los
+estímulos. Piensa en si son desagradables/molestos,
+agradables/satisfactorios o si simplemente son atípicos:
+
+-   👀 Vista: Luces intensas, parpadeantes, cálidas o frías, según
+    tiempo de exposición, etc.
+-   👅 Gusto: Sabores intensos o suaves, temperaturas, textura, etc.
+    Incluye morder objetos.
+-   ✋ Tacto: Texturas.
+-   👃 Olfato: Mucha necesidad de higiene. Olor de perfumes, comida,
+    gasolina, etc.
+-   👂 Oído: Música, ruido y sus intermedios. Ruidos muy leves.
+-   ⚖️ 🤹 Vestibular: El equilibrio general. Sensaciones al estar en
+    vehículos u objetos en movimiento.
+-   🧠 Interocepción: La alexitimia y funcionalidad atípica del resto
+    del sistema interoceptivo.
+-   💪 👯 Propiocepción: La forma de moverte, aplicar fuerza o
+    colocarte. Podemos tener posturas atípicas, tener dificultad para
+    hacer movimientos delicados, tener malos reflejos. Hay que mirar
+    reacciones atípicas y la forma de controlar todas nuestras
+    articulaciones.
+
+Otras cosas relevantes a tener en cuenta:
+
+-   Aparte de molestia o satisfacción también puede haber una búsqueda
+    de estímulos o experiencias sensoriales. Es natural que para
+    conseguir placer:
+
+    1.  Con una hiposensibilidad se suba la intensidad del estímulo
+    2.  Con una hipersensibilidad se baje la intensidad de este
+
+-   Aparte, en la gente autista se produce la sinestesia. Que es cuando
+    un estímulo afecta a varios sentidos a la vez de forma involuntaria.
+
+    ℹ️ Ejemplos:
+
+    -   Ver colores en el viento/música.
+    -   Asignar colores a personas/voces/números.
+    -   Escuchar sabores/colores.
+    -   Saborear sonidos/texturas.
+    -   Oler emociones.
+
+Para rellenar esta sección de la plantilla de autodiagnóstico tienes
+varias opciones:
+
+1.  La creación de un perfil sensorial sea por cuenta propia o por medio
+    de une profesional.
+2.  Hacer pequeños experimentos con tus sentidos para probar.
+3.  Recopilar por tu cuenta lo que creas conveniente.
+
+------------------------------------------------------------------------
+
+Enfermedades, trastornos y condiciones conocidos [Ir arriba]
 
   Tengo enfermedades que parecen "normales" pero en realidad son
   posibles rasgos autistas.
@@ -760,7 +1004,7 @@ rasgos de sus compulsiones.
 Hay bastantes enfermedades, trastornos y condiciones relacionadas con el
 autismo.
 
-Ejemplos:
+ℹ️ Ejemplos:
 
 -   Problemas intestinales
 -   Dermatitis
@@ -772,7 +1016,9 @@ Ejemplos:
 -   Bruxismo/Dolencias musculares en la cara
 -   Otras neurodivergencias.
 
--   Disfuncionalidad ejecutiva y/o funcionalidad atípica [Ir arriba]
+------------------------------------------------------------------------
+
+Disfuncionalidad ejecutiva y/o funcionalidad atípica [Ir arriba]
 
   Se me da muy bien hacer este patrón A -> B -> C y encima tengo
   hiperfijación, así que “hiperfunciono”. Pero se me da muy mal hacer
@@ -785,7 +1031,7 @@ en qué tareas existe de verdad una diferencia de capacidad y
 funcionamiento, qué clase de estrategias ayudan a funcionar mejor, qué
 tareas o interacciones pueden provocar disfunción o incapacidad.
 
-Ejemplos:
+ℹ️ Ejemplos:
 
 -   A altas horas de la noche, tras haber despejado mi cabeza de
     socializar durante el día, soy capaz de hacer escritos y guías de
@@ -801,7 +1047,9 @@ Ejemplos:
 -   Si me mandan tareas nuevas que no conozco, o que me disgustan, tardo
     muchísimo más tiempo.
 
--   Enmascaramiento/Masking [Ir arriba]
+------------------------------------------------------------------------
+
+Enmascaramiento/Masking [Ir arriba]
 
   Ocultar tus cosas autistas al resto para poder sobrevivir.
 
@@ -813,7 +1061,7 @@ solamente para pasar por normales. Básicamente, esta sección sería
 escribir sobre las veces que eres consciente de que has tenido que
 ocultar tus rasgos autistas y cómo te has sentido al respecto.
 
-Ejemplos:
+ℹ️ Ejemplos:
 
 -   Concentrarse en algo para dejar de hacer autoestimulación y no mover
     las manos ni cambiar de postura.
@@ -824,6 +1072,8 @@ Ejemplos:
 -   Notar que necesitas descansos después de tener una interacción larga
     con gente al haber usado tu energía haciendo “masking” y sentirse
     muy aliviade cuando puedes dejar de hacerlo.
+
+------------------------------------------------------------------------
 
 Rasgos en la infancia/desarrollo [Ir arriba]
 
@@ -869,7 +1119,8 @@ proceso de diagnóstico oficial podrían hacer más mal que bien. Por poner
 una analogía, es como llevar a un mal testigo a un juicio. Recomiendo
 que les hagas la entrevista antes de ir a diagnóstico y que incluyas sus
 aportaciones en la plantilla de rasgos autistas.
-https://github.com/AsambleaAutistaMadrid/General/wiki/Recurso%3A-Gu%C3%ADa-de-autodiagn%C3%B3stico-de-autismo-para-documentaci%C3%B3n-y-autoan%C3%A1lisis.-%5BIncluye-plantilla-rellenable%5D/_edit#como-evaluar-nuestros-rasgos
+
+------------------------------------------------------------------------
 
 Efectos en la vida diaria [Ir arriba]
 
@@ -884,6 +1135,8 @@ neurodivergente, problemas para conseguir trabajo (estable), problemas
 familiares, malestar general interno (problemas de estrés, depresión,
 etc.).
 
+------------------------------------------------------------------------
+
 Otros [Ir arriba]
 
   Borrador o cosas que no sepas dónde poner
@@ -893,6 +1146,8 @@ anteriores pero creas que realmente es un rasgo autista o es una parte
 importante de tu vivencia como persona autista. Puedes usarlo de
 borrador para reorganizarlo luego en donde veas conveniente.
 
+------------------------------------------------------------------------
+
 Descargas [Ir arriba]
 
 Guía de autodiagnóstico [Ir arriba]
@@ -900,6 +1155,7 @@ Guía de autodiagnóstico [Ir arriba]
 -   Formato PDF (.pdf)
 -   Formato Word (.docx)
 -   Formato texto (.txt)
+-   Formato libro digital (.epub)
 
 Plantillas rellenables para documentación de rasgos [Ir arriba]
 
@@ -936,7 +1192,7 @@ Plantilla lista para copiar y pegar [Ir arriba]
 
     * ### Ecolalias
 
-    * ### Problemas sensoriales
+    * ### Sensorialidad Atípica
 
     * ### Enfermedades, trastornos, condiciones conocidas
 
