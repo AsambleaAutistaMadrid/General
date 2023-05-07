@@ -1,5 +1,6 @@
 #!/usr/bin/env just --justfile
 NAME:="guia-de-autodiagnostico"
+TITLE:="Guía de autodiagnóstico de autismo para documentación y autoanálisis."
 PANDOC_OPTIONS := "--number-sections -C"
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
@@ -17,10 +18,10 @@ txt FILE:
     pandoc {{PANDOC_OPTIONS}} --from {{FROM}} --to plain -o {{NAME}}.txt {{absolute_path(FILE)}}
 
 epub FILE:
-    pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{NAME}}.epub {{absolute_path(FILE)}} --metadata title={{file_stem(FILE)}}
+    pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{NAME}}.epub {{absolute_path(FILE)}} --metadata title="{{TITLE}}"
 
 pdf FILE:
-    pandoc {{absolute_path(FILE)}} -f markdown+emoji -o {{NAME}}.pdf {{PANDOC_PDF_OPTIONS}} --metadata title={{file_stem(FILE)}}
+    pandoc {{PANDOC_OPTIONS}} {{absolute_path(FILE)}} -f markdown+emoji -o {{NAME}}.pdf {{PANDOC_PDF_OPTIONS}} --metadata title="{{TITLE}}"
 
 all FILE:
     just docx {{FILE}}
