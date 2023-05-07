@@ -4,7 +4,7 @@ PANDOC_OPTIONS := "--number-sections -C"
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
-PANDOC_PDF_OPTIONS := "-s --pdf-engine=xelatex -V geometry:margin=.4in --toc"
+PANDOC_PDF_OPTIONS := "-s --pdf-engine=xelatex -V geometry:margin=.4in --toc -V links-as-notes=true -V colorlinks -V urlcolor=NavyBlue"
 FROM := "gfm"
 
 
