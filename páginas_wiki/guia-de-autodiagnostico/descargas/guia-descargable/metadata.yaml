@@ -1,4 +1,12 @@
 ---
 header-includes:
   - \usepackage{emoji}
+  - \usepackage{setspace}
+  - \linespread{1.5}
+geometry:
+  - margin=.4in
+author: 
+- "Asamblea autista de Madrid"
+fontsize: 14pt
+number_sections: true
 ---

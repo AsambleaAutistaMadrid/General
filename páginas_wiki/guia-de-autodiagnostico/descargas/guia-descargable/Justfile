@@ -4,7 +4,7 @@ PANDOC_OPTIONS := "--number-sections -C --metadata title='Guía de autodiagnóst
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
-PANDOC_PDF_OPTIONS := "-s --pdf-engine=lualatex -L latex-emoji.lua --metadata-file=metadata.yaml -V geometry:margin=.4in -V links-as-notes=true -V colorlinks -V urlcolor=NavyBlue -V mainfont='DejaVu Sans'"
+PANDOC_PDF_OPTIONS := "-s --pdf-engine=lualatex -L latex-emoji.lua --metadata-file=metadata.yaml -V links-as-notes=true -V colorlinks -V urlcolor=NavyBlue -V mainfont='DejaVu Sans'"
 FROM := "gfm"
 
 
