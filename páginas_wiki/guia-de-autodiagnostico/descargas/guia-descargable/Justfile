@@ -1,7 +1,6 @@
 #!/usr/bin/env just --justfile
-NAME:="guia-de-autodiagnostico"
-TITLE:="Guía de autodiagnóstico de autismo para documentación y autoanálisis."
-PANDOC_OPTIONS := "--number-sections -C"
+FILENAME := "guia-de-autodiagnostico"
+PANDOC_OPTIONS := "--number-sections -C --metadata title='Guía de autodiagnóstico de autismo para documentación y autoanálisis.'"
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
@@ -12,16 +11,16 @@ FROM := "gfm"
 default: (all "FILE")
 
 docx FILE:
-    pandoc {{PANDOC_OPTIONS}} {{PANDOC_DOCX_OPTIONS}} --from {{FROM}} --to docx -o {{NAME}}.docx {{absolute_path(FILE)}}
+    pandoc {{PANDOC_OPTIONS}} {{PANDOC_DOCX_OPTIONS}} --from {{FROM}} --to docx -o {{FILENAME}}.docx {{absolute_path(FILE)}}
 
 txt FILE:
-    pandoc {{PANDOC_OPTIONS}} --from {{FROM}} --to plain -o {{NAME}}.txt {{absolute_path(FILE)}}
+    pandoc {{PANDOC_OPTIONS}} {{PANDOC_TXT_OPTIONS}} --from {{FROM}} --to plain -o {{FILENAME}}.txt {{absolute_path(FILE)}}
 
 epub FILE:
-    pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{NAME}}.epub {{absolute_path(FILE)}} --metadata title="{{TITLE}}"
+    pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{FILENAME}}.epub  {{absolute_path(FILE)}}
 
 pdf FILE:
-    pandoc {{PANDOC_OPTIONS}} {{absolute_path(FILE)}} -f markdown+emoji -o {{NAME}}.pdf {{PANDOC_PDF_OPTIONS}} --metadata title="{{TITLE}}"
+    pandoc {{PANDOC_OPTIONS}} {{PANDOC_PDF_OPTIONS}} --from {{FROM}} -o {{FILENAME}}.pdf {{absolute_path(FILE)}}
 
 all FILE:
     just docx {{FILE}}
