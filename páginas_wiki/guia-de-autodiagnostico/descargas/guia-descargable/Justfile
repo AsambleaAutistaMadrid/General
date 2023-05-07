@@ -4,7 +4,7 @@ PANDOC_OPTIONS := "--number-sections -C"
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
-PANDOC_PDF_OPTIONS := "-s --pdf-engine=xelatex -V geometry:margin=.4in --toc -V links-as-notes=true -V colorlinks -V urlcolor=NavyBlue"
+PANDOC_PDF_OPTIONS := "-s --pdf-engine=lualatex -L latex-emoji.lua --metadata-file=metadata.yaml -V geometry:margin=.4in -V links-as-notes=true -V colorlinks -V urlcolor=NavyBlue -V mainfont='DejaVu Sans'"
 FROM := "gfm"
 
 
@@ -20,7 +20,7 @@ epub FILE:
     pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{NAME}}.epub {{absolute_path(FILE)}} --metadata title={{file_stem(FILE)}}
 
 pdf FILE:
-    pandoc {{absolute_path(FILE)}} -fgfm -o {{NAME}}.pdf {{PANDOC_PDF_OPTIONS}} --metadata title={{file_stem(FILE)}}
+    pandoc {{absolute_path(FILE)}} -f markdown+emoji -o {{NAME}}.pdf {{PANDOC_PDF_OPTIONS}} --metadata title={{file_stem(FILE)}}
 
 all FILE:
     just docx {{FILE}}
