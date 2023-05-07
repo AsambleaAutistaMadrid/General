@@ -1,39 +1,7 @@
 Escrito por Asamblea Autista Madrid
+Enlace a la versión wiki mas actualizada
 
 Tabla de contenidos
-
-1.  Presentación
-    1.  📝 Vías de (auto)diagnosticarse
-    2.  ❌ 👎 Crítica a los procesos de diagnóstico
-2.  Planteamiento y objetivo de la guía
-    1.  📄 ¿Como rellenar la plantilla de autodiagnóstico?
-    2.  🤔 ¿Como evaluar nuestros rasgos?
-    3.  🫵 ¿Quien debe rellenar la plantilla de autodiagnóstico?
-    4.  👍 Ventajas de rellenar la plantilla de autodiagnóstico
-3.  Glosario
-4.  Apartados
-    1.  👥 Interacción/comunicación social atípica
-        1.  🫂 Reciprocidad socio-emocional / empatía y alexitimia
-        2.  🧏 Comunicación no verbal
-        3.  🗣️ Dificultad con amistades y relaciones
-        4.  🏳️‍🌈 Disidencias respecto a convenciones sociales
-    2.  🔁 ♾️ Comportamientos y actividades restrictivas/repetitivas
-        1.  🎮 Autoestimulación / "Stimming"
-        2.  ♾️ Comportamiento rígido y patrones de pensamiento atípicos
-            y/o autistas.
-        3.  🔊 🔁 Ecolalias
-        4.  🦖 : Intereses especiales
-        5.  🧨 👃 Sensorialidad Atípica
-        6.  🔁 Compulsiones y TOCs
-        7.  💊 Enfermedades, trastornos y condiciones conocidos
-        8.  💤 🔋 Disfuncionalidad ejecutiva y/o funcionalidad atípica
-        9.  😷 😶‍🌫️ Enmascaramiento/Masking
-    3.  🧒 Rasgos en la infancia/desarrollo
-    4.  😩 Efectos en la vida diaria
-    5.  Otros
-5.  Descargas
-    1.  Guía de autodiagnóstico
-    2.  Plantillas rellenables
 
 Presentación [Ir arriba]
 
@@ -199,6 +167,8 @@ características:
 
 Crítica a los procesos de diagnóstico oficiales [Ir arriba]
 
+  Casi todo está mal.
+
 Por lo general, en los diagnósticos oficiales se evalúa lo "disruptivas"
 que son tus características personales generadas especificamente por tu
 neurodivergencia y se intenta separar lo que pudiera no estar causado
@@ -222,7 +192,7 @@ por esta. Si la persona que te evalúa es neurotípica, tendrán que:
 -   El autodiagnóstico es válido para considerarse autista sin necesidad
     de profesionales.
 
-Crítica a las pruebas diagnósticas
+Problemas de las pruebas diagnósticas
 
 Las pruebas que se utilizan para diagnosticar no te clasifiquen como
 autista. Les alistas que hacen diagnósticos y las pruebas diagnósticas
@@ -230,100 +200,143 @@ autista. Les alistas que hacen diagnósticos y las pruebas diagnósticas
 medir si eres autista, y tampoco la “cantidad de autismo que tienes” por
 varias razones:
 
--   Pseudociencia: Las pruebas diagnósticas no se usan como indicadores
-    sino que intentan ponerle un número a la "cantidad del autismo", que
-    es ya de por sí difícil de cuantificar. Puedes ver por qué es
-    incorrecto en la siguiente imagen (Ver imagen 1 abajo). Estas
-    pruebas reducen el autismo a un sistema de puntos. Son atajos
-    acientíficos, es decir que no siguen el método científico, puesto ni
-    su eficacia ni sus resultados son del todo verificables. Opino que
-    generalmente son atajos acientíficos para neurotípiques con baja
-    capacidad de percepción y poca sensibilidad hacia los rasgos
-    autistas. Por otra parte, las que se usan habitualmente (ADOS-2,
-    etc) solo detectan correctamente a personas que enmascaran poco, por
-    lo general hombres cis y detectan incorrectamente a mujeres y
-    personas de otros géneros. Nunca deberían tomarse como un requisito
-    para ser diagnosticade como autista sino como un indicador. La
-    experiencia autista propia y las entrevistas deberían ser lo mas
-    importante.
+-   ❌ 🧙 Pseudociencia
 
-Sobre los procesos de diagnóstico
+      No son verificables ni fiables.
 
--   Ambiente poco adecuado: Para detectar rasgos autistas, muchas veces
-    se necesita un nivel de estrés alto o una situación complicada para
-    desenmascarar a una mente autista. Esto no tiene por qué pasar
-    durante diagnóstico. Por ejemplo, después de mi primer diagnóstico
-    descubrí que sufría de misofonía (sensibilidad selectiva al sonido)
-    y que me llevaba a tener crisis muy intensas y rápidas. Me di cuenta
-    de que no habría podido detectarlo sin un entorno "hostil" o un
-    estímulo muy desagradable que lo desencadene. Cosa que en los
-    diagnósticos es difícil que suceda.
+    Las pruebas diagnósticas no se usan como indicadores sino que
+    intentan ponerle un número a la "cantidad del autismo", que es ya de
+    por sí difícil de cuantificar. Puedes ver por qué es incorrecto en
+    la siguiente imagen (Ver imagen 1 abajo). Estas pruebas reducen el
+    autismo a un sistema de puntos. Son atajos acientíficos, es decir
+    que no siguen el método científico, puesto ni su eficacia ni sus
+    resultados son del todo verificables. Opino que generalmente son
+    atajos acientíficos para neurotípiques con baja capacidad de
+    percepción y poca sensibilidad hacia los rasgos autistas. Por otra
+    parte, las que se usan habitualmente (ADOS-2, etc) solo detectan
+    correctamente a personas que enmascaran poco, por lo general hombres
+    cis y detectan incorrectamente a mujeres y personas de otros
+    géneros. Nunca deberían tomarse como un requisito para ser
+    diagnosticade como autista sino como un indicador. La experiencia
+    autista propia y las entrevistas deberían ser lo mas importante.
 
--   Familiares enturbian el proceso: Para atajar y comprobar que la
-    persona no miente, se entrevista a familiares, se hacen pruebas
-    diagnósticas adaptadas a la percepción de la persona, etc.
-    Entrevistar a familiares puede ser útil pero también puede añadir
-    parcialidad, subjetividad, infantilización hacia la persona
-    diagnosticada y llevar a conclusiones erróneas que enturbian el
-    proceso de diagnóstico y perjudican a la persona que se está
-    diagnosticando. Un caso típico es el de les adres que no saben que
-    son neurodivergentes y asumen que sus hijes son normales o
+-   ❌ 📝 🔁 Las pruebas no son relevantes/correctas. Los procesos se
+    alargan artificialmente
+
+      Solo funcionan bien para hombres cis
+
+    -   Existen profesionales de que realizan diagnósticos que se
+        aprovechan de su posición de poder, para alargar los procesos
+        diagnósticos de forma arbitraria, poco transparente y darte una
+        falsa sensación de que el proceso es mas complicado de lo que en
+        realidad es.
+    -   Se da demasiada importancia a pruebas diagnósticas con defectos
+        importantes y de valor cuestionable.
+    -   Las pruebas no son suficientemente sensibles a todo el espectro
+        autista.
+    -   No se utilizan los métodos correctos que evitar los falsos
+        positivos y negativos.
+
+Problemas del resto del proceso
+
+-   ❌ 🤫 Ambiente poco adecuado
+
+      Se enmascara durante el propio proceso.
+
+    Para detectar rasgos autistas, muchas veces se necesita un nivel de
+    estrés alto o una situación complicada para desenmascarar a una
+    mente autista. Esto no tiene por qué pasar durante diagnóstico. Por
+    ejemplo, después de mi primer diagnóstico descubrí que sufría de
+    misofonía (sensibilidad selectiva al sonido) y que me llevaba a
+    tener crisis muy intensas y rápidas. Me di cuenta de que no habría
+    podido detectarlo sin un entorno "hostil" o un estímulo muy
+    desagradable que lo desencadene. Cosa que en los diagnósticos es
+    difícil que suceda.
+
+-   ❌ 😶‍🌫️ Ignoran el enmascaramiento en adultes
+
+      Te va a salir mal si no consigues desenmascararte.
+
+    El diagnóstico en personas adultas es mas difícil que en personas
+    que no han tenido que enmascarar tanto, especialmente si le
+    profesional encargada no es neurodivergente. Si eres adulte, hay que
+    realizar una gran investigación para ver la persona debajo de la
+    máscara. Sin embargo, los procesos diagnósticos generalmente obvian
+    esto. Además intentan replicar un diagnóstico infantil con “ayudas”
+    priorizando la opinión de tus adres por encima de tu vivencia.
+    Generalmente, no nos ayuda depender de personas neurotípicas por su
+    exceso de confianza, capacitismo y su ignorancia respecto al
+    paradigma del autismo actual.
+
+-   ❌ 👪 Familiares enturbian el proceso
+
+      Mi familia dice que soy normal.
+
+    Para atajar y comprobar que la persona no miente, se entrevista a
+    familiares, se hacen pruebas diagnósticas adaptadas a la percepción
+    de la persona, etc. Entrevistar a familiares puede ser útil pero
+    también puede añadir parcialidad, subjetividad, infantilización
+    hacia la persona diagnosticada y llevar a conclusiones erróneas que
+    enturbian el proceso de diagnóstico y perjudican a la persona que se
+    está diagnosticando. Un caso típico es el de les adres que no saben
+    que son neurodivergentes y asumen que sus hijes son normales o
     simplemente que rellenan los huecos de su mala memoria con su
     percepción subjetiva actual o pasada de sus hijes.
 
--   Alargamiento artificial del proceso: Existen profesionales de que
-    realizan diagnósticos que se aprovechan de su posición de poder,
-    para alargar los procesos diagnósticos de forma arbitraria. Intentan
-    hacerte creer que el proceso es mas complicado de lo que en realidad
-    es.
-
--   Ignoran el enmascaramiento en adultes: El diagnóstico en personas
-    adultas es mas difícil que en personas que no han tenido que
-    enmascarar tanto, especialmente si le profesional encargada no es
-    neurodivergente. Si eres adulte, hay que realizar una gran
-    investigación para ver la persona debajo de la máscara. Sin embargo,
-    los procesos diagnósticos generalmente obvian esto. Además intentan
-    replicar un diagnóstico infantil con “ayudas” priorizando la opinión
-    de tus adres por encima de tu vivencia. Generalmente, no nos ayuda
-    depender de personas neurotípicas por su exceso de confianza,
-    capacitismo y su ignorancia respecto al paradigma del autismo
-    actual.
-
 Ventajas del autodiagnóstico documentado
 
--   Científico: Une profesional de diagnósticos puede errar a la hora de
-    hacer la evaluación de un diagnóstico y ser subjetive. Sin embargo,
-    nuestra experiencia puede ser verificada, discutida y observada por
-    nuestro entorno. Si practicamos la autoobservación y autopercepción
-    durante un tiempo podremos documentar de forma mucho más objetiva
-    nuestros rasgos autistas. Desde esta guía se propone un
-    procedimiento que sigue el método científico.
+-   ✔️ 🧑‍🔬 Científico
 
--   Analisis profundo: En mi experiencia, me ha sido muy provechoso
-    tener documentados todos mis rasgos autistas, que realizar un
-    proceso de diagnóstico oficial. Puesto que me daba mas seguridad y
-    credibilidad tener preparada dicha documentación. Hace falta un
-    análisis de los rasgos mas profundo que el de un proceso oficial y
-    una investigación exhaustiva de muchos aspectos que normalmente se
-    obvia.
+    Une profesional de diagnósticos puede errar a la hora de hacer la
+    evaluación de un diagnóstico y ser subjetive. Sin embargo, nuestra
+    experiencia puede ser verificada, discutida y observada por nuestro
+    entorno. Si practicamos la autoobservación y autopercepción durante
+    un tiempo podremos documentar de forma mucho más objetiva nuestros
+    rasgos autistas. Desde esta guía se propone un procedimiento que
+    sigue el método científico.
 
--   Autosuficiencia para diagnósticarse: El método que se propone en
-    esta guía es rellenar la plantilla adjunta en la sección de
-    descargas. Creemos que puede ahorrarte muchos trámites y también de
-    hacer múltiples sesiones de diagnóstico. Se hace mucho más evidente
-    y claro que eres neurodivergente cuando has documentado todos tus
-    rasgos. Esta guía te sirve para documentar todas tus “dificultades”,
-    necesidades y patrones y para tener una respuesta definitiva a la
-    pregunta de si pudieras ser autista.
+-   ✔️ 🗣️ Permite la discusión. Diagnóstico comunitario.
 
--   Método perenne y verificado por la comunidad.: Esta herramienta de
-    autodiagnóstico es muchísimo más potente si se usa correctamente,
-    creo firmemente que es donde reside la verdadera clave del
-    autodiagnóstico y también del diagnóstico oficial. Considero que
-    esta herramienta seguirá siendo útil aunque vez que cambien los
-    manuales y y metodologías de las pruebas de diagnóstico. Ha sido
-    creada en un esfuerzo colaborativo por la comunidad autistas,
-    uniendo las experiencias de todes.
+    Tener los rasgos documentados facilita mucho la discusión colectiva
+    sobre estos. Esto permite una mayor seguridad para anotar y
+    descubrir mas rasgos y compartir experiencias. Reduce el síndrome
+    del impostor que sufre mucha gente que está en proceso de
+    autodiagnóstico. Ya no eres simplemente una persona que está siendo
+    evaluada de forma opaca por varias personas con un criterio
+    cuestionable basado en libros de psiquiatría también bastante
+    cuestionables.
+
+-   ✔️ 🔎 Analisis profundo
+
+    En mi experiencia y también la del resto de la comunidad que se ha
+    autodiagnosticado, ha sido muy provechoso tener documentados todos
+    mis rasgos autistas, que realizar un proceso de diagnóstico oficial.
+    Puesto que me daba mas seguridad y credibilidad tener preparada
+    dicha documentación. Hace falta un análisis de los rasgos mas
+    profundo que el que se suele dar en un proceso oficial y una
+    investigación exhaustiva al detalle de muchos aspectos que
+    normalmente se omite.
+
+-   ✔️ 💪 Autosuficiencia para diagnósticarse
+
+    El método que se propone en esta guía es rellenar la plantilla
+    adjunta en la sección de descargas. Creemos que puede ahorrarte
+    muchos trámites y también de hacer múltiples sesiones de
+    diagnóstico. Se hace mucho más evidente y claro que eres
+    neurodivergente cuando has documentado todos tus rasgos. Esta guía
+    te sirve para documentar todas tus “dificultades”, necesidades y
+    patrones y para tener una respuesta definitiva a la pregunta de si
+    pudieras ser autista.
+
+-   ✔️ ♾️ Método perenne y verificado por la comunidad.
+
+    Esta herramienta de autodiagnóstico es muchísimo más potente si se
+    usa correctamente, creo firmemente que es donde reside la verdadera
+    clave del autodiagnóstico y también del diagnóstico oficial.
+    Considero que esta herramienta seguirá siendo útil aunque cambien
+    los manuales y las metodologías de las pruebas de diagnóstico
+    oficial. Ha sido creada en un esfuerzo colaborativo por la comunidad
+    autistas, uniendo las experiencias de todes.
 
 Imagen 1.
 

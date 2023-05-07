@@ -4,7 +4,7 @@ PANDOC_OPTIONS := "--number-sections -C"
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
-# PANDOC_PDF_OPTIONS :=
+PANDOC_PDF_OPTIONS := "-s --pdf-engine=xelatex -V geometry:margin=.4in --toc"
 FROM := "gfm"
 
 
@@ -20,9 +20,10 @@ epub FILE:
     pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{NAME}}.epub {{absolute_path(FILE)}} --metadata title={{file_stem(FILE)}}
 
 pdf FILE:
-    pandoc --from gfm --to pdf -o {{NAME}}.pdf {{absolute_path(FILE)}}
+    pandoc {{absolute_path(FILE)}} -fgfm -o {{NAME}}.pdf {{PANDOC_PDF_OPTIONS}} --metadata title={{file_stem(FILE)}}
 
 all FILE:
     just docx {{FILE}}
     just txt {{FILE}}
     just epub {{FILE}}
+    just pdf {{FILE}}
